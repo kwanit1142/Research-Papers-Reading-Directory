@@ -13,6 +13,9 @@
 |7.|Feature Transfer Learning for Face Recognition with Under-Represented Data|Classification|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Feature%20Transfer%20Learning%20for%20Face%20Recognition%20with%20Under-Represented%20Data.pdf)|
 |8.|First Person Action Recognition Using Deep Learned Descriptors|Multi-Modality|Human Actions|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/First%20Person%20Action%20Recognition%20Using%20Deep%20Learned%20Descriptors.pdf)|
 |9.|Human Pose Classification within the Context of Near-IR Imagery Tracking|Machine Learning Classification|Human Actions|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Human%20Pose%20Classification%20within%20the%20Context%20of%20Near-IR%20Imagery%20Tracking.pdf)|
+|10.|MLP-Mixer An all-MLP Architecture for Vision|Classification|Benchmark|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/MLP-Mixer%20An%20all-MLP%20Architecture%20for%20Vision.pdf)|
+|11.|Multi-modal classification for human breast cancer prognosis prediction Proposal of deep-learning based stacked ensemble model|Multi-Modality|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Multi-modal%20classification%20for%20human%20breast%20cancer%20prognosis%20prediction%20Proposal%20of%20deep-learning%20based%20stacked%20ensemble%20model.pdf)|
+|12.|MutliScale CNN based Deep Metric Learning for Bioacoustic Classification|Classification|Accoustics|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/MutliScale%20CNN%20based%20Deep%20Metric%20Learning%20for%20Bioacoustic%20Classification.pdf)|
 
 ## Natural Language Processing
 
@@ -32,7 +35,7 @@
 |3.|Detecting Linguistic Characteristics of Alzheimer’s Dementia by Interpreting Neural Models|Classification|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Detecting%20Linguistic%20Characteristics%20of%20Alzheimer%E2%80%99s%20Dementia%20by%20Interpreting%20Neural%20Models.pdf)|
 |4.|Face-Cap Image Captioning using Facial Expression Analysis|Image Captioning|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Face-Cap%20Image%20Captioning%20using%20Facial%20Expression%20Analysis.pdf)|
 |5.|Learning to Segment Actions from Visual and Language Instructions via Differentiable Weak Sequence Alignment|Multi-Modality|Video-Caption|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Learning%20to%20Segment%20Actions%20from%20Visual%20and%20Language%20Instructions%20via%20Differentiable%20Weak%20Sequence%20Alignment.pdf)|
-
+|6.|Machine Learning Based Automatic Classification of Video Recorded Neonatal Manipulations and Associated Physiological Parameters A Feasibility Study|Classification|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Machine%20Learning%20Based%20Automatic%20Classification%20of%20Video%20Recorded%20Neonatal%20Manipulations%20and%20Associated%20Physiological%20Parameters%20A%20Feasibility%20Study.pdf)|
 
 ## Others
 
@@ -41,3 +44,4 @@
 |1.|An Instruction Set Architecture for Machine Learning|Instruction Set Architecture|Computer Architecture|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/An%20Instruction%20Set%20Architecture%20for%20Machine%20Learning.pdf)|
 |2.|Artificial Intelligence and COVID-19 Deep Learning Approaches for Diagnosis and Treatment|Cumulative Case Study|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Artificial%20Intelligence%20and%20COVID-19%20Deep%20Learning%20Approaches%20for%20Diagnosis%20and%20Treatment.pdf)|
 |3.|Depression Scale Recognition from Audio, Visual and Text Analysis|Machine Learning Classification|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Depression%20Scale%20Recognition%20from%20Audio%2C%20Visual%20and%20Text%20Analysis.pdf)|
+|4.|Machine Learning Techniques for Stock Prediction|Cumulative Case Study|Finance|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Machine%20Learning%20Techniques%20for%20Stock%20Prediction.pdf)|
