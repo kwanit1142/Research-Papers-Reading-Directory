@@ -25,6 +25,8 @@
 |19.|Toward Multimodal Image-to-Image Translation|Multi-Modality|Artwork|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Toward%20Multimodal%20Image-to-Image%20Translation.pdf)|
 |20.|TryOnGAN Body-Aware Try-On via Layered Interpolation|Segmentation|Fashion|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/TryOnGAN%20Body-Aware%20Try-On%20via%20Layered%20Interpolation.pdf)|
 |21.|Tuning of Classifiers to Speed-Up Detection of Pedestrians in Infrared Images|Machine Learning Classification|Human Actions|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Tuning%20of%20Classifiers%20to%20Speed-Up%20Detection%20of%20Pedestrians%20in%20Infrared%20Images.pdf)|
+|22.|URCA-GAN UpSample Residual Channel-wise Attention Generative|Multi-Modality|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/URCA-GAN%20UpSample%20Residual%20Channel-wise%20Attention%20Generative.pdf)|
+|23.|X2CT-GAN Reconstructing CT from Biplanar X-Rays with Generative|Reconstruction|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/X2CT-GAN%20Reconstructing%20CT%20from%20Biplanar%20X-Rays%20with%20Generative.pdf)|
 
 ## Natural Language Processing
 
@@ -34,6 +36,7 @@
 |2.|ClinicalBERT Modeling Clinical Notes and Predicting Hospital Readmission|Attention|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/ClinicalBERT%20Modeling%20Clinical%20Notes%20and%20Predicting%20Hospital%20Readmission.pdf)|
 |3.|Deep contextualized word representations|Embeddings|Benchmark|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Deep%20contextualized%20word%20representations.pdf)|
 |4.|Fine-Grained Spoiler Detection from Large-Scale Review Corpora|Attention|Literature|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Fine-Grained%20Spoiler%20Detection%20from%20Large-Scale%20Review%20Corpora.pdf)|
+|5.|Where have I Heard this Story Before Identifying Narrative Similarity in Movie Remakes|Similarity|Literature|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Where%20have%20I%20Heard%20this%20Story%20Before%20Identifying%20Narrative%20Similarity%20in%20Movie%20Remakes.pdf)|
 
 ## Combination of Computer Vision and Natural Language Processing
 
@@ -48,6 +51,8 @@
 |7.|Reconstructing faces from voices|Reconstruction|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Reconstructing%20faces%20from%20voices.pdf)|
 |8.|Relation Extraction from Biomedical and Clinical Text Unified Multitask Learning Framework|Multi-Modality|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Relation%20Extraction%20from%20Biomedical%20and%20Clinical%20Text%20Unified%20Multitask%20Learning%20Framework.pdf)|
 |9.|Tell, Draw, and Repeat Generating and Modifying Images Based on Continual Linguistic Instruction|Reconstruction|Artwork|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Tell%2C%20Draw%2C%20and%20Repeat%20Generating%20and%20Modifying%20Images%20Based%20on%20Continual%20Linguistic%20Instruction.pdf)|
+|10.|Understanding of Emotion Perception from Art|Image Captioning|Artwork|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Understanding%20of%20Emotion%20Perception%20from%20Art.pdf)|
+|11.|Visual Semantic Role Labeling|Image Captioning|Benchmark|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Visual%20Semantic%20Role%20Labeling.pdf)|
 
 ## Others
 
