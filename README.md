@@ -53,6 +53,9 @@
 |9.|Tell, Draw, and Repeat Generating and Modifying Images Based on Continual Linguistic Instruction|Reconstruction|Artwork|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Tell%2C%20Draw%2C%20and%20Repeat%20Generating%20and%20Modifying%20Images%20Based%20on%20Continual%20Linguistic%20Instruction.pdf)|
 |10.|Understanding of Emotion Perception from Art|Image Captioning|Artwork|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Understanding%20of%20Emotion%20Perception%20from%20Art.pdf)|
 |11.|Visual Semantic Role Labeling|Image Captioning|Benchmark|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Visual%20Semantic%20Role%20Labeling.pdf)|
+|12.|A deep learning approach to handwritten text recognition in the presence of struck-out text|Classification|Benchmark|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/A%20deep%20learning%20approach%20to%20handwritten%20text%20recognition%20in%20the%20presence%20of%20struck-out%20text.pdf)|
+
+
 
 ## Others
 
