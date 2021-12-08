@@ -28,7 +28,7 @@
 |22.|URCA-GAN UpSample Residual Channel-wise Attention Generative|Multi-Modality|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/URCA-GAN%20UpSample%20Residual%20Channel-wise%20Attention%20Generative.pdf)|
 |23.|X2CT-GAN Reconstructing CT from Biplanar X-Rays with Generative|Reconstruction|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/X2CT-GAN%20Reconstructing%20CT%20from%20Biplanar%20X-Rays%20with%20Generative.pdf)|
 |24.|Edge Guided Progressively Generative Image Outpainting|Reconstruction|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Edge%20Guided%20Progressively%20Generative%20Image%20Outpainting.pdf)|
-
+|25.|Using Automatic Features for Text-image Classification in Amharic Documents|Classification|Literature|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Using%20Automatic%20Features%20for%20Text-image%20Classification%20in%20Amharic%20Documents.pdf)|
 
 
 ## Natural Language Processing
