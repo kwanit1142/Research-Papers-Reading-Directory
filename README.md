@@ -30,7 +30,6 @@
 |24.|Edge Guided Progressively Generative Image Outpainting|Reconstruction|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Edge%20Guided%20Progressively%20Generative%20Image%20Outpainting.pdf)|
 |25.|Using Automatic Features for Text-image Classification in Amharic Documents|Classification|Literature|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Using%20Automatic%20Features%20for%20Text-image%20Classification%20in%20Amharic%20Documents.pdf)|
 
-
 ## Natural Language Processing
 
 | S.No. | Research Paper | Domain | Application | Link |
@@ -57,8 +56,7 @@
 |10.|Understanding of Emotion Perception from Art|Image Captioning|Artwork|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Understanding%20of%20Emotion%20Perception%20from%20Art.pdf)|
 |11.|Visual Semantic Role Labeling|Image Captioning|Benchmark|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Visual%20Semantic%20Role%20Labeling.pdf)|
 |12.|A deep learning approach to handwritten text recognition in the presence of struck-out text|Classification|Benchmark|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/A%20deep%20learning%20approach%20to%20handwritten%20text%20recognition%20in%20the%20presence%20of%20struck-out%20text.pdf)|
-
-
+|13.|AttendAffectNet: Self-Attention based Networks for Predicting Affective Responses from Movies|Multi-Modality|Movies|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/AttendAffectNet%20%20Self-Attention%20%20based%20%20Networks%20%20for%20Predicting%20%20Affective%20%20Responses%20%20from%20%20Movies.pdf)|
 
 ## Others
 
