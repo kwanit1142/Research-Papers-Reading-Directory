@@ -29,6 +29,9 @@
 |23.|X2CT-GAN Reconstructing CT from Biplanar X-Rays with Generative|Reconstruction|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/X2CT-GAN%20Reconstructing%20CT%20from%20Biplanar%20X-Rays%20with%20Generative.pdf)|
 |24.|Edge Guided Progressively Generative Image Outpainting|Reconstruction|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Edge%20Guided%20Progressively%20Generative%20Image%20Outpainting.pdf)|
 |25.|Using Automatic Features for Text-image Classification in Amharic Documents|Classification|Literature|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Using%20Automatic%20Features%20for%20Text-image%20Classification%20in%20Amharic%20Documents.pdf)|
+|26.|Example-Guided Style-Consistent Image Synthesis from Semantic Labeling|Reconstruction|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Example-Guided%20Style-Consistent%20Image%20Synthesis%20from%20Semantic%20Labeling.pdf)|
+
+
 
 ## Natural Language Processing
 
