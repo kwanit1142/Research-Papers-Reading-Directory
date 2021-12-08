@@ -27,6 +27,9 @@
 |21.|Tuning of Classifiers to Speed-Up Detection of Pedestrians in Infrared Images|Machine Learning Classification|Human Actions|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Tuning%20of%20Classifiers%20to%20Speed-Up%20Detection%20of%20Pedestrians%20in%20Infrared%20Images.pdf)|
 |22.|URCA-GAN UpSample Residual Channel-wise Attention Generative|Multi-Modality|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/URCA-GAN%20UpSample%20Residual%20Channel-wise%20Attention%20Generative.pdf)|
 |23.|X2CT-GAN Reconstructing CT from Biplanar X-Rays with Generative|Reconstruction|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/X2CT-GAN%20Reconstructing%20CT%20from%20Biplanar%20X-Rays%20with%20Generative.pdf)|
+|24.|Edge Guided Progressively Generative Image Outpainting|Reconstruction|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Edge%20Guided%20Progressively%20Generative%20Image%20Outpainting.pdf)|
+
+
 
 ## Natural Language Processing
 
