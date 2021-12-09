@@ -41,6 +41,8 @@
 |3.|Deep contextualized word representations|Embeddings|Benchmark|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Deep%20contextualized%20word%20representations.pdf)|
 |4.|Fine-Grained Spoiler Detection from Large-Scale Review Corpora|Attention|Literature|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Fine-Grained%20Spoiler%20Detection%20from%20Large-Scale%20Review%20Corpora.pdf)|
 |5.|Where have I Heard this Story Before Identifying Narrative Similarity in Movie Remakes|Similarity|Literature|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Where%20have%20I%20Heard%20this%20Story%20Before%20Identifying%20Narrative%20Similarity%20in%20Movie%20Remakes.pdf)|
+|6.|Using Neural Network for Identifying Clickbaits in Online News Media|Classification|News|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Using%20Neural%20Network%20for%20Identifying%20Clickbaits%20in%20Online%20News%20Media.pdf)|
+
 
 ## Combination of Computer Vision and Natural Language Processing
 
