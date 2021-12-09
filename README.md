@@ -62,6 +62,7 @@
 |12.|A deep learning approach to handwritten text recognition in the presence of struck-out text|Classification|Benchmark|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/A%20deep%20learning%20approach%20to%20handwritten%20text%20recognition%20in%20the%20presence%20of%20struck-out%20text.pdf)|
 |13.|AttendAffectNet: Self-Attention based Networks for Predicting Affective Responses from Movies|Multi-Modality|Movies|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/AttendAffectNet%20%20Self-Attention%20%20based%20%20Networks%20%20for%20Predicting%20%20Affective%20%20Responses%20%20from%20%20Movies.pdf)|
 |14.|Learning Visual Emotion Representations from Web Data|Multi-Modality|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Learning%20Visual%20Emotion%20Representations%20from%20Web%20Data.pdf)|
+|15.|A Compositional Textual Model for Recognition of Imperfect Word Images|Reconstruction|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/A%20Compositional%20Textual%20Model%20for%20Recognition%20of%20Imperfect%20Word%20Images.pdf)|
 
 ## Others
 
