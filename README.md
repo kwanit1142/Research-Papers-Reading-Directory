@@ -32,6 +32,8 @@
 |26.|Example-Guided Style-Consistent Image Synthesis from Semantic Labeling|Reconstruction|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Example-Guided%20Style-Consistent%20Image%20Synthesis%20from%20Semantic%20Labeling.pdf)|
 |27.|Conditional Attention for Content-based Image Retrieval|Segmentation|Image|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Conditional%20Attention%20for%20Content-based%20Image%20Retrieval.pdf)|
 |28.|Attention Clusters: Purely Attention Based Local Feature Integration for Video Classification|Multi-Modality|Movies|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Attention%20Clusters%20Purely%20Attention%20Based%20Local%20Feature%20Integration%20for%20Video%20Classification.pdf)|
+|29.|Detecting Sexually Provocative Images|Multi-Class Classification|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Detecting%20Sexually%20Provocative%20Images.pdf)|
+
 
 ## Natural Language Processing
 
