@@ -33,7 +33,7 @@
 |27.|Conditional Attention for Content-based Image Retrieval|Segmentation|Image|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Conditional%20Attention%20for%20Content-based%20Image%20Retrieval.pdf)|
 |28.|Attention Clusters: Purely Attention Based Local Feature Integration for Video Classification|Multi-Modality|Movies|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Attention%20Clusters%20Purely%20Attention%20Based%20Local%20Feature%20Integration%20for%20Video%20Classification.pdf)|
 |29.|Detecting Sexually Provocative Images|Multi-Class Classification|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Detecting%20Sexually%20Provocative%20Images.pdf)|
-
+|30.|IMAGE RESTORATION WITH DEEP GENERATIVE MODELS|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/IMAGE%20RESTORATION%20WITH%20DEEP%20GENERATIVE%20MODELS.pdf)|
 
 ## Natural Language Processing
 
