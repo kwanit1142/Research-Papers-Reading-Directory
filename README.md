@@ -70,6 +70,7 @@
 |15.|A Compositional Textual Model for Recognition of Imperfect Word Images|Reconstruction|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/A%20Compositional%20Textual%20Model%20for%20Recognition%20of%20Imperfect%20Word%20Images.pdf)|
 |16.|Cross-Modal Coherence for Text-to-Image Retrieval|Multi-Modality|Benchmark|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Cross-Modal%20Coherence%20for%20Text-to-Image%20Retrieval.pdf)|
 |17.|Temporal Dynamic Graph LSTM for Action-driven Video Object Detection|Classification|Videos|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Temporal%20Dynamic%20Graph%20LSTM%20for%20Action-driven%20Video%20Object%20Detection.pdf)|
+|18.|Visual Recognition of Great Ape Behaviours in the Wild|Multi-Class Classification|Animals|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Visual%20Recognition%20of%20Great%20Ape%20Behaviours%20in%20the%20Wild.pdf)|
 
 ## Others
 
