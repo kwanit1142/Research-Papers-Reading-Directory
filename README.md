@@ -37,6 +37,7 @@
 |31.|Combining chest X-rays and EHR data using machine learning to diagnose acute respiratory failure|Multi-Modality|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Combining%20%20chest%20%20X-rays%20%20and%20%20EHR%20%20data%20%20using%20%20machine%20%20learning%20%20to%20%20diagnose%20%20acute%20respiratory%20%20failure.pdf)|
 |32.|IMPROVING MUSIC TRANSCRIPTION BY PRE-STACKING A U-NET|Multi-Label Classification|Music|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/IMPROVING%20MUSIC%20TRANSCRIPTION%20BY%20PRE-STACKING%20A%20U-NET.pdf)|
 |33.|Large-Scale Training Framework for Video Annotation|Multi-Modality|Videos|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Large-Scale%20Training%20Framework%20for%20Video%20Annotation.pdf)|
+|33.|Center-Focusing Multi-task CNN with Injected Features for Classification of Glioma Nuclear Images|Multi-Label Classification|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Center-Focusing%20Multi-task%20CNN%20with%20Injected%20Features%20for%20Classification%20of%20Glioma%20Nuclear%20Images.pdf)|
 
 
 ## Natural Language Processing
