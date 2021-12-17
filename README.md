@@ -38,7 +38,7 @@
 |32.|IMPROVING MUSIC TRANSCRIPTION BY PRE-STACKING A U-NET|Multi-Label Classification|Music|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/IMPROVING%20MUSIC%20TRANSCRIPTION%20BY%20PRE-STACKING%20A%20U-NET.pdf)|
 |33.|Large-Scale Training Framework for Video Annotation|Multi-Modality|Videos|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Large-Scale%20Training%20Framework%20for%20Video%20Annotation.pdf)|
 |34.|Center-Focusing Multi-task CNN with Injected Features for Classification of Glioma Nuclear Images|Multi-Label Classification|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Center-Focusing%20Multi-task%20CNN%20with%20Injected%20Features%20for%20Classification%20of%20Glioma%20Nuclear%20Images.pdf)|
-|34.|DEEP ATTENTIVE FEATURE LEARNING FOR HISTOPATHOLOGY IMAGE CLASSIFICATION|Classification|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/DEEP%20ATTENTIVE%20FEATURE%20LEARNING%20FOR%20HISTOPATHOLOGY%20IMAGE%20CLASSIFICATION.pdf)|
+|35.|DEEP ATTENTIVE FEATURE LEARNING FOR HISTOPATHOLOGY IMAGE CLASSIFICATION|Classification|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/DEEP%20ATTENTIVE%20FEATURE%20LEARNING%20FOR%20HISTOPATHOLOGY%20IMAGE%20CLASSIFICATION.pdf)|
 
 ## Natural Language Processing
 
