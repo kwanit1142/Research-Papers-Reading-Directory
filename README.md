@@ -41,6 +41,7 @@
 |35.|DEEP ATTENTIVE FEATURE LEARNING FOR HISTOPATHOLOGY IMAGE CLASSIFICATION|Classification|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/DEEP%20ATTENTIVE%20FEATURE%20LEARNING%20FOR%20HISTOPATHOLOGY%20IMAGE%20CLASSIFICATION.pdf)|
 |36.|A Novel Radiogenomics Framework for Genomic and Image Feature Correlation using Deep Learning|Multi-Modality|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/A%20Novel%20Radiogenomics%20Framework%20for%20Genomic%20and%20Image%20Feature%20Correlation%20using%20Deep%20Learning.pdf)|
 |37.|Dual-domain convolutional neural networks for improving structural information in 3T MRI|Multi-Modality|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Dual-domain%20convolutional%20neural%20networks%20for%20improving%20structural%20information%20in%203T%20MRI.pdf)|
+|38.|DEEP NETWORKS TO AUTOMATICALLY DETECT LATE-ACTIVATING REGIONS OF THE HEART|Segmentation|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/DEEP%20NETWORKS%20TO%20AUTOMATICALLY%20DETECT%20LATE-ACTIVATING%20REGIONS%20OF%20THE%20HEART.pdf)|
 
 ## Natural Language Processing
 
