@@ -44,6 +44,7 @@
 |38.|DEEP NETWORKS TO AUTOMATICALLY DETECT LATE-ACTIVATING REGIONS OF THE HEART|Segmentation|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/DEEP%20NETWORKS%20TO%20AUTOMATICALLY%20DETECT%20LATE-ACTIVATING%20REGIONS%20OF%20THE%20HEART.pdf)|
 |39.|Image analysis with deep learning to predict breast cancer grade, ER status, histologic subtype, and intrinsic subtype|Segmentation|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Image%20analysis%20with%20deep%20learning%20to%20predict%20breast%20cancer%20grade%2C%20ER%20status%2C%20histologic%20subtype%2C%20and%20intrinsic%20subtype.pdf)|
 |40.|Improving clinical disease subtyping and future events prediction through a chest CT-based deep learning approach|Classification/Regression|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Improving%20clinical%20disease%20subtyping%20and%20future%20events%20prediction%20through%20a%20chest%20CT-based%20deep%20learning%20approach.pdf)|
+|41.|Person Head Detection in Multiple Scales Using Deep Convolutional Neural Networks|Classification|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Person%20Head%20Detection%20in%20Multiple%20Scales%20Using%20Deep%20Convolutional%20Neural%20Networks.pdf)|
 
 ## Natural Language Processing
 
