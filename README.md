@@ -43,6 +43,7 @@
 |37.|Dual-domain convolutional neural networks for improving structural information in 3T MRI|Multi-Modality|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Dual-domain%20convolutional%20neural%20networks%20for%20improving%20structural%20information%20in%203T%20MRI.pdf)|
 |38.|DEEP NETWORKS TO AUTOMATICALLY DETECT LATE-ACTIVATING REGIONS OF THE HEART|Segmentation|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/DEEP%20NETWORKS%20TO%20AUTOMATICALLY%20DETECT%20LATE-ACTIVATING%20REGIONS%20OF%20THE%20HEART.pdf)|
 |39.|Image analysis with deep learning to predict breast cancer grade, ER status, histologic subtype, and intrinsic subtype|Segmentation|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Image%20analysis%20with%20deep%20learning%20to%20predict%20breast%20cancer%20grade%2C%20ER%20status%2C%20histologic%20subtype%2C%20and%20intrinsic%20subtype.pdf)|
+|40.|Improving clinical disease subtyping and future events prediction through a chest CT-based deep learning approach|Classification/Regression|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Improving%20clinical%20disease%20subtyping%20and%20future%20events%20prediction%20through%20a%20chest%20CT-based%20deep%20learning%20approach.pdf)|
 
 ## Natural Language Processing
 
