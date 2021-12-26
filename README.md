@@ -46,6 +46,8 @@
 |40.|Improving clinical disease subtyping and future events prediction through a chest CT-based deep learning approach|Classification/Regression|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Improving%20clinical%20disease%20subtyping%20and%20future%20events%20prediction%20through%20a%20chest%20CT-based%20deep%20learning%20approach.pdf)|
 |41.|Person Head Detection in Multiple Scales Using Deep Convolutional Neural Networks|Classification|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Person%20Head%20Detection%20in%20Multiple%20Scales%20Using%20Deep%20Convolutional%20Neural%20Networks.pdf)|
 |42.|Joint Input and Output Space Learning for Multi-Label Image Classification|Multi-Label Classification|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Joint%20Input%20and%20Output%20Space%20Learning%20for%20Multi-Label%20Image%20Classification.pdf)|
+|43.|Multimodal Fusion with Deep Neural Networks for Audio-Video Emotion Recognition|Classification|Videos|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Multimodal%20Fusion%20with%20Deep%20Neural%20Networks%20for%20Audio-Video%20Emotion%20Recognition.pdf)|
+|44.|Word spotting and recognition via a joint deep embedding of image and text|Multi-Modality|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Word%20spotting%20and%20recognition%20via%20a%20joint%20deep%20embedding%20of%20image%20and%20text.pdf)|
 
 ## Natural Language Processing
 
