@@ -85,6 +85,7 @@
 |19.|Video Person Re-Identification for Wide Area Tracking Based on Recurrent Neural Networks|Classification|Human Actions|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Video%20Person%20Re-Identification%20for%20Wide%20Area%20Tracking%20Based%20on%20Recurrent%20Neural%20Networks.pdf)|
 |20.|Sequential Person Recognition in Photo Albums with a Recurrent Network|Classification|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Sequential%20Person%20Recognition%20in%20Photo%20Albums%20with%20a%20Recurrent%20Network.pdf)|
 |21.|Impact of Neural Architecture Design on Cardiac Abnormality Classification Using 12-lead ECG Signals|Classification|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Impact%20of%20Neural%20Architecture%20Design%20on%20Cardiac%20Abnormality%20Classification%20Using%2012-lead%20ECG%20Signals.pdf)|
+|22.|Referring Image Segmentation by Generative Adversarial Learning|Segmentation|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Referring%20Image%20Segmentation%20by%20Generative%20Adversarial%20Learning.pdf)|
 
 ## Others
 
