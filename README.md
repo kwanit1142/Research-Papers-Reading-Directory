@@ -53,6 +53,7 @@
 |47.|Fully convolutional networks in multimodal nonlinear microscopy images for automated detection of head and neck carcinoma-A pilot study|Segmentation|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Fully%20convolutional%20networks%20in%20multimodal%20nonlinear%20microscopy%20images%20for%20automated%20detection%20of%20head%20and%20neck%20carcinoma-A%20pilot%20study.pdf)|
 |48.|Video Object Segmentation without Temporal Information|Segmentation|Videos|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Video_Object_Segmentation_without_Temporal_Information.pdf)|
 |49.|Iterative Deep Fusion for 3D Semantic Segmentation|Multi-Modality|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Iterative%20Deep%20Fusion%20for%203D%20Semantic%20Segmentation.pdf)|
+|50.|A Content Transformation Block For Image Style Transfer|Reconstruction|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/A%20Content%20Transformation%20Block%20For%20Image%20Style%20Transfer.pdf)|
 
 ## Natural Language Processing
 
