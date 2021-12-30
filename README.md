@@ -50,6 +50,7 @@
 |44.|Word spotting and recognition via a joint deep embedding of image and text|Multi-Modality|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Word%20spotting%20and%20recognition%20via%20a%20joint%20deep%20embedding%20of%20image%20and%20text.pdf)|
 |45.|CAMS Color-Aware Multi-Style Transfer|Reconstruction|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/CAMS%20Color-Aware%20Multi-Style%20Transfer.pdf)|
 |46.|Rethinking CNN Models for Audio Classification|Classification|Music|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Rethinking%20CNN%20Models%20for%20Audio%20Classification.pdf)|
+|47.|Fully convolutional networks in multimodal nonlinear microscopy images for automated detection of head and neck carcinoma-A pilot study|Segmentation|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Fully%20convolutional%20networks%20in%20multimodal%20nonlinear%20microscopy%20images%20for%20automated%20detection%20of%20head%20and%20neck%20carcinoma-A%20pilot%20study.pdf)|
 
 ## Natural Language Processing
 
