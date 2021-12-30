@@ -65,6 +65,7 @@
 |7.|Learning to Generate Questions with Adaptive Copying Neural Networks|QnA|Literature|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Learning%20to%20Generate%20Questions%20with%20Adaptive%20Copying%20Neural%20Networks.pdf)|
 |8.|Chord2Vec Learning Musical Chord Embeddings|Embeddings|Music|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Chord2Vec%20Learning%20Musical%20Chord%20Embeddings.pdf)|
 |9.|Long short-term memory networks for proton dose calculation in highly heterogeneous tissues|Regression|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Long%20short-term%20memory%20networks%20for%20proton%20dose%20calculation%20in%20highly%20heterogeneous%20tissues.pdf)|
+|10.|An LSTM Approach to Patent Classification based on Fixed Hierarchy Vectors|Classification|Literature|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/An%20LSTM%20Approach%20to%20Patent%20Classification%20based%20on%20Fixed%20Hierarchy%20Vectors.pdf)|
 
 
 ## Combination of Computer Vision and Natural Language Processing
