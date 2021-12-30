@@ -91,6 +91,7 @@
 |21.|Impact of Neural Architecture Design on Cardiac Abnormality Classification Using 12-lead ECG Signals|Classification|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Impact%20of%20Neural%20Architecture%20Design%20on%20Cardiac%20Abnormality%20Classification%20Using%2012-lead%20ECG%20Signals.pdf)|
 |22.|Referring Image Segmentation by Generative Adversarial Learning|Segmentation|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Referring%20Image%20Segmentation%20by%20Generative%20Adversarial%20Learning.pdf)|
 |23.|Attentive U-recurrent encoder-decoder network for image dehazing|Image Enhancement|Benchmark|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Attentive%20U-recurrent%20encoder-decoder%20network%20for%20image%20dehazing.pdf)|
+|24.|Towards End-to-End Raw Audio Music Synthesis|Reconstruction|Music|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Towards%20End-to-End%20Raw%20Audio%20Music%20Synthesis.pdf)|
 
 ## Others
 
