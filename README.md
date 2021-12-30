@@ -54,6 +54,7 @@
 |48.|Video Object Segmentation without Temporal Information|Segmentation|Videos|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Video_Object_Segmentation_without_Temporal_Information.pdf)|
 |49.|Iterative Deep Fusion for 3D Semantic Segmentation|Multi-Modality|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Iterative%20Deep%20Fusion%20for%203D%20Semantic%20Segmentation.pdf)|
 |50.|A Content Transformation Block For Image Style Transfer|Reconstruction|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/A%20Content%20Transformation%20Block%20For%20Image%20Style%20Transfer.pdf)|
+|51.|Uninformed Students- Student–Teacher Anomaly Detection with Discriminative Latent Embeddings|Segmentation|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Uninformed%20Students-%20Student%E2%80%93Teacher%20Anomaly%20Detection%20with%20Discriminative%20Latent%20Embeddings.pdf)|
 
 ## Natural Language Processing
 
