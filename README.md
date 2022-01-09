@@ -106,6 +106,7 @@
 |23.|Attentive U-recurrent encoder-decoder network for image dehazing|Image Enhancement|Benchmark|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Attentive%20U-recurrent%20encoder-decoder%20network%20for%20image%20dehazing.pdf)|
 |24.|Towards End-to-End Raw Audio Music Synthesis|Reconstruction|Music|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Towards%20End-to-End%20Raw%20Audio%20Music%20Synthesis.pdf)|
 |25.|The GAN that Warped Semantic Attribute Editing with Unpaired Data|Reconstruction|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/The%20GAN%20that%20Warped%20Semantic%20Attribute%20Editing%20with%20Unpaired%20Data.pdf)|
+|26.|Photorealistic Audio-driven Video Portraits|Reconstruction|Videos|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Photorealistic%20Audio-driven%20Video%20Portraits.pdf)|
 
 ## Others
 
