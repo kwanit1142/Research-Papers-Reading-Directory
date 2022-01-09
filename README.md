@@ -61,6 +61,8 @@
 |55.|FOCUSNET++ ATTENTIVE AGGREGATED TRANSFORMATIONS FOR EFFICIENT AND ACCURATE MEDICAL IMAGE SEGMENTATION|Segmentation|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/FOCUSNET%2B%2B%20ATTENTIVE%20AGGREGATED%20TRANSFORMATIONS%20FOR%20EFFICIENT%20AND%20ACCURATE%20MEDICAL%20IMAGE%20SEGMENTATION.pdf)|
 |56.|Spatial Information Guided Convolution for Real-Time RGBD Semantic Segmentation|Segmentation|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Spatial%20Information%20Guided%20Convolution%20for%20Real-Time%20RGBD%20Semantic%20Segmentation.pdf)|
 |57.|Unsupervised Attention-guided Image-to-Image Translation|Reconstruction|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Unsupervised%20Attention-guided%20Image-to-Image%20Translation.pdf)|
+|58.|Restoring Negative Information in Few-Shot Object Detection|Benchmark|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Restoring%20Negative%20Information%20in%20Few-Shot%20Object%20Detection.pdf)|
+
 
 ## Natural Language Processing
 
