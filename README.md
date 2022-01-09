@@ -57,6 +57,8 @@
 |51.|Uninformed Students- Student–Teacher Anomaly Detection with Discriminative Latent Embeddings|Segmentation|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Uninformed%20Students-%20Student%E2%80%93Teacher%20Anomaly%20Detection%20with%20Discriminative%20Latent%20Embeddings.pdf)|
 |52.|Human Attention in Fine-grained Classification|Classification|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Human%20Attention%20in%20Fine-grained%20Classification.pdf)|
 |53.|BioFaceNet Deep Biophysical Face Image Interpretation|Reconstruction|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/BioFaceNet%20Deep%20Biophysical%20Face%20Image%20Interpretation.pdf)|
+|54.|FOCUSNET AN ATTENTION-BASED FULLY CONVOLUTIONAL NETWORK FOR MEDICAL IMAGE SEGMENTATION|Segmentation|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/FOCUSNET%20AN%20ATTENTION-BASED%20FULLY%20CONVOLUTIONAL%20NETWORK%20FOR%20MEDICAL%20IMAGE%20SEGMENTATION.pdf)|
+|55.|FOCUSNET++ ATTENTIVE AGGREGATED TRANSFORMATIONS FOR EFFICIENT AND ACCURATE MEDICAL IMAGE SEGMENTATION|Segmentation|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/FOCUSNET%2B%2B%20ATTENTIVE%20AGGREGATED%20TRANSFORMATIONS%20FOR%20EFFICIENT%20AND%20ACCURATE%20MEDICAL%20IMAGE%20SEGMENTATION.pdf)|
 
 ## Natural Language Processing
 
