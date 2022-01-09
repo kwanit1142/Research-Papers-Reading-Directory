@@ -63,7 +63,7 @@
 |57.|Unsupervised Attention-guided Image-to-Image Translation|Reconstruction|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Unsupervised%20Attention-guided%20Image-to-Image%20Translation.pdf)|
 |58.|Restoring Negative Information in Few-Shot Object Detection|Benchmark|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Restoring%20Negative%20Information%20in%20Few-Shot%20Object%20Detection.pdf)|
 |59.|End-to-End Multi-Task Learning with Attention|Multi-Modality|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/End-to-End%20Multi-Task%20Learning%20with%20Attention.pdf)|
-
+|60.|UNSUPERVISED DOMAIN ADAPTATION FOR DISGUISED FACE RECOGNITION|Classification|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/UNSUPERVISED%20DOMAIN%20ADAPTATION%20FOR%20DISGUISED%20FACE%20RECOGNITION.pdf)|
 
 ## Natural Language Processing
 
