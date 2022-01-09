@@ -56,6 +56,7 @@
 |50.|A Content Transformation Block For Image Style Transfer|Reconstruction|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/A%20Content%20Transformation%20Block%20For%20Image%20Style%20Transfer.pdf)|
 |51.|Uninformed Students- Student–Teacher Anomaly Detection with Discriminative Latent Embeddings|Segmentation|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Uninformed%20Students-%20Student%E2%80%93Teacher%20Anomaly%20Detection%20with%20Discriminative%20Latent%20Embeddings.pdf)|
 |52.|Human Attention in Fine-grained Classification|Classification|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Human%20Attention%20in%20Fine-grained%20Classification.pdf)|
+|53.|BioFaceNet Deep Biophysical Face Image Interpretation|Reconstruction|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/BioFaceNet%20Deep%20Biophysical%20Face%20Image%20Interpretation.pdf)|
 
 ## Natural Language Processing
 
