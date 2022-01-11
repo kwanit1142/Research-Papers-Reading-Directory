@@ -65,6 +65,8 @@
 |59.|End-to-End Multi-Task Learning with Attention|Multi-Modality|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/End-to-End%20Multi-Task%20Learning%20with%20Attention.pdf)|
 |60.|UNSUPERVISED DOMAIN ADAPTATION FOR DISGUISED FACE RECOGNITION|Classification|Faces|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/UNSUPERVISED%20DOMAIN%20ADAPTATION%20FOR%20DISGUISED%20FACE%20RECOGNITION.pdf)|
 |61.|SEAN Image Synthesis with Semantic Region-Adaptive Normalization|Reconstruction|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/SEAN%20Image%20Synthesis%20with%20Semantic%20Region-Adaptive%20Normalization.pdf)|
+|62.|Sketch-a-Segmenter Sketch-Based Photo Segmenter Generation|Segmentation|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Sketch-a-Segmenter%20Sketch-Based%20Photo%20Segmenter%20Generation.pdf)|
+
 
 ## Natural Language Processing
 
