@@ -116,6 +116,7 @@
 |26.|Photorealistic Audio-driven Video Portraits|Reconstruction|Videos|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Photorealistic%20Audio-driven%20Video%20Portraits.pdf)|
 |27.|Panoptic Segmentation-Based Attention for Image Captioning|Image Captioning|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Panoptic%20Segmentation-Based%20Attention%20for%20Image%20Captioning.pdf)|
 |28.|Multi-channel Transformers for Multi-articulatory Sign Language Translation|Image Captioning|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Multi-channel%20Transformers%20for%20Multi-articulatory%20Sign%20Language%20Translation.pdf)|
+|29.|Joint Visual Semantic Reasoning Multi-Stage Decoder for Text Recognition|Image Captioning|Images|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Joint%20Visual%20Semantic%20Reasoning%20Multi-Stage%20Decoder%20for%20Text%20Recognition.pdf)|
 
 ## Others
 
