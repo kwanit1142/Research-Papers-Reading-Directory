@@ -22,8 +22,8 @@
   * Art and Literature
   * Videos-driven Modularity
 ## 4. Other Domains
-  * Medical Technology
-  * State-Of-The-Art Benchmarking
-  * Computer Architecture
-  * Finance
-  * Music and Accoustics
+  * [Medical Technology](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Others/Medical.md)
+  * [State-Of-The-Art Benchmarking](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Others/Benchmark.md)
+  * [Computer Architecture](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Others/Comp_Arch.md)
+  * [Finance](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Others/Finance.md)
+  * [Music and Accoustics](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Others/Music.md)
