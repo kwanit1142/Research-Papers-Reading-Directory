@@ -1,1 +1,6 @@
-
+| S.No. | Research Paper | Architecture | Purpose | Link |
+| ---- | ---- | ---- | ---- | ---- |
+|1.|Fine-Grained Spoiler Detection from Large-Scale Review Corpora||Attention|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Fine-Grained%20Spoiler%20Detection%20from%20Large-Scale%20Review%20Corpora.pdf)|
+|2.|Where have I Heard this Story Before Identifying Narrative Similarity in Movie Remakes||Similarity|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Where%20have%20I%20Heard%20this%20Story%20Before%20Identifying%20Narrative%20Similarity%20in%20Movie%20Remakes.pdf)|
+|3.|Learning to Generate Questions with Adaptive Copying Neural Networks||QnA|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Learning%20to%20Generate%20Questions%20with%20Adaptive%20Copying%20Neural%20Networks.pdf)|
+|4.|An LSTM Approach to Patent Classification based on Fixed Hierarchy Vectors||Classification|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/An%20LSTM%20Approach%20to%20Patent%20Classification%20based%20on%20Fixed%20Hierarchy%20Vectors.pdf)|
