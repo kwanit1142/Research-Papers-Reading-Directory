@@ -1,1 +1,8 @@
-
+| S.No. | Research Paper | Architecture | Purpose | Link |
+| ---- | ---- | ---- | ---- | ---- |
+|1.|Feature Transfer Learning for Face Recognition with Under-Represented Data||Classification|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Feature%20Transfer%20Learning%20for%20Face%20Recognition%20with%20Under-Represented%20Data.pdf)|
+|2.|URCA-GAN UpSample Residual Channel-wise Attention Generative||Multi-Modality|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/URCA-GAN%20UpSample%20Residual%20Channel-wise%20Attention%20Generative.pdf)|
+|3.|Edge Guided Progressively Generative Image Outpainting||Reconstruction|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Edge%20Guided%20Progressively%20Generative%20Image%20Outpainting.pdf)|
+|4.|Person Head Detection in Multiple Scales Using Deep Convolutional Neural Networks||Classification|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Person%20Head%20Detection%20in%20Multiple%20Scales%20Using%20Deep%20Convolutional%20Neural%20Networks.pdf)|
+|5.|BioFaceNet Deep Biophysical Face Image Interpretation||Reconstruction|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/BioFaceNet%20Deep%20Biophysical%20Face%20Image%20Interpretation.pdf)|
+|6.|UNSUPERVISED DOMAIN ADAPTATION FOR DISGUISED FACE RECOGNITION||Classification|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/UNSUPERVISED%20DOMAIN%20ADAPTATION%20FOR%20DISGUISED%20FACE%20RECOGNITION.pdf)|
