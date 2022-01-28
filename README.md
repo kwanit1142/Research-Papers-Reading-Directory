@@ -10,10 +10,10 @@
   * Art and Literature
   * Videos-driven Modularity   
 ## 2. Natural Language Processing
-  * Medical Technology
-  * State-Of-The-Art Benchmarking
-  * Art and Literature
-  * News and Articles
+  * [Medical Technology](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Medical.md)
+  * [State-Of-The-Art Benchmarking](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Benchmark.md)
+  * [Art and Literature](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Literature.md)
+  * [News and Articles](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/News.md)
 ## 3. Amalgamation of Computer Vision and Natural Language Processing
   * Medical Technology
   * State-Of-The-Art Benchmarking
