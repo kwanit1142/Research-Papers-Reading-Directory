@@ -1,1 +1,9 @@
+| S.No. | Research Paper | Architecture | Purpose | Link |
+| ---- | ---- | ---- | ---- | ---- |
+|1.|First Person Action Recognition Using Deep Learned Descriptors||Multi-Modality|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/First%20Person%20Action%20Recognition%20Using%20Deep%20Learned%20Descriptors.pdf)|
+|2.|Human Pose Classification within the Context of Near-IR Imagery Tracking||Machine Learning Classification|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Human%20Pose%20Classification%20within%20the%20Context%20of%20Near-IR%20Imagery%20Tracking.pdf)|
+|3.|Region Extraction Based Approach for Cigarette Usage Classification using Deep Learning||Classification|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Region%20Extraction%20Based%20Approach%20for%20Cigarette%20Usage%20Classification%20using%20Deep%20Learning.pdf)|
+|4.|TRANSFER LEARNING FOR VIDEOS-FROM ACTION RECOGNITION TO SIGN||Classification|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/TRANSFER%20LEARNING%20FOR%20VIDEOS-FROM%20ACTION%20RECOGNITION%20TO%20SIGN.pdf)|
+|5.|TryOnGAN Body-Aware Try-On via Layered Interpolation||Segmentation|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/TryOnGAN%20Body-Aware%20Try-On%20via%20Layered%20Interpolation.pdf)|
+|6.|Tuning of Classifiers to Speed-Up Detection of Pedestrians in Infrared Images||Machine Learning Classification|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Tuning%20of%20Classifiers%20to%20Speed-Up%20Detection%20of%20Pedestrians%20in%20Infrared%20Images.pdf)|
 
