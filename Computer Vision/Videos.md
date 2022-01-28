@@ -1,1 +1,6 @@
-
+| S.No. | Research Paper | Architecture | Purpose | Link |
+| ---- | ---- | ---- | ---- | ---- |
+|1.|Attention Clusters: Purely Attention Based Local Feature Integration for Video Classification||Multi-Modality|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Attention%20Clusters%20Purely%20Attention%20Based%20Local%20Feature%20Integration%20for%20Video%20Classification.pdf)|
+|2.|Large-Scale Training Framework for Video Annotation||Multi-Modality|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Large-Scale%20Training%20Framework%20for%20Video%20Annotation.pdf)|
+|3.|Multimodal Fusion with Deep Neural Networks for Audio-Video Emotion Recognition||Classification|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Multimodal%20Fusion%20with%20Deep%20Neural%20Networks%20for%20Audio-Video%20Emotion%20Recognition.pdf)|
+|4.|Video Object Segmentation without Temporal Information||Segmentation|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Video_Object_Segmentation_without_Temporal_Information.pdf)|
