@@ -1,0 +1,8 @@
+| S.No. | Research Paper | Architecture | Purpose | Link |
+| ---- | ---- | ---- | ---- | ---- |
+|1.|Learning Visual Emotion Representations from Web Data||Multi-Modality|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Learning%20Visual%20Emotion%20Representations%20from%20Web%20Data.pdf)|
+|2.|A Compositional Textual Model for Recognition of Imperfect Word Images||Reconstruction|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/A%20Compositional%20Textual%20Model%20for%20Recognition%20of%20Imperfect%20Word%20Images.pdf)|
+|3.|Referring Image Segmentation by Generative Adversarial Learning||Segmentation|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Referring%20Image%20Segmentation%20by%20Generative%20Adversarial%20Learning.pdf)|
+|4.|The GAN that Warped Semantic Attribute Editing with Unpaired Data||Reconstruction|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/The%20GAN%20that%20Warped%20Semantic%20Attribute%20Editing%20with%20Unpaired%20Data.pdf)|
+|5.|Panoptic Segmentation-Based Attention for Image Captioning||Image Captioning|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Panoptic%20Segmentation-Based%20Attention%20for%20Image%20Captioning.pdf)|
+|6.|Joint Visual Semantic Reasoning Multi-Stage Decoder for Text Recognition||Image Captioning|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Joint%20Visual%20Semantic%20Reasoning%20Multi-Stage%20Decoder%20for%20Text%20Recognition.pdf)|
