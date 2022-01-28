@@ -71,15 +71,10 @@
 | S.No. | Research Paper | Domain | Application | Link |
 | ---- | ---- | ---- | ---- | ---- |
 |1.|Attention augmentation with multi-residual in Bidirectional LSTM|Attention|Benchmark|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Attention%20augmentation%20with%20multi-residual%20in%20Bidirectional%20LSTM.pdf)|
-|2.|ClinicalBERT Modeling Clinical Notes and Predicting Hospital Readmission|Attention|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/ClinicalBERT%20Modeling%20Clinical%20Notes%20and%20Predicting%20Hospital%20Readmission.pdf)|
 |3.|Deep contextualized word representations|Embeddings|Benchmark|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Deep%20contextualized%20word%20representations.pdf)|
-|4.|Fine-Grained Spoiler Detection from Large-Scale Review Corpora|Attention|Literature|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Fine-Grained%20Spoiler%20Detection%20from%20Large-Scale%20Review%20Corpora.pdf)|
-|5.|Where have I Heard this Story Before Identifying Narrative Similarity in Movie Remakes|Similarity|Literature|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Where%20have%20I%20Heard%20this%20Story%20Before%20Identifying%20Narrative%20Similarity%20in%20Movie%20Remakes.pdf)|
-|6.|Using Neural Network for Identifying Clickbaits in Online News Media|Classification|News|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Using%20Neural%20Network%20for%20Identifying%20Clickbaits%20in%20Online%20News%20Media.pdf)|
-|7.|Learning to Generate Questions with Adaptive Copying Neural Networks|QnA|Literature|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Learning%20to%20Generate%20Questions%20with%20Adaptive%20Copying%20Neural%20Networks.pdf)|
 |8.|Chord2Vec Learning Musical Chord Embeddings|Embeddings|Music|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Chord2Vec%20Learning%20Musical%20Chord%20Embeddings.pdf)|
-|9.|Long short-term memory networks for proton dose calculation in highly heterogeneous tissues|Regression|Medical|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Long%20short-term%20memory%20networks%20for%20proton%20dose%20calculation%20in%20highly%20heterogeneous%20tissues.pdf)|
-|10.|An LSTM Approach to Patent Classification based on Fixed Hierarchy Vectors|Classification|Literature|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/An%20LSTM%20Approach%20to%20Patent%20Classification%20based%20on%20Fixed%20Hierarchy%20Vectors.pdf)|
+
+
 
 
 ## Combination of Computer Vision and Natural Language Processing
