@@ -15,12 +15,12 @@
   * [Art and Literature](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/Literature.md)
   * [News and Articles](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Natural%20Language%20Processing/News.md)
 ## 3. Amalgamation of Computer Vision and Natural Language Processing
-  * Medical Technology
-  * State-Of-The-Art Benchmarking
-  * Face-Oriented Applications
-  * Action and Gait-related Domain
-  * Art and Literature
-  * Videos-driven Modularity
+  * [Medical Technology](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Medical.md)
+  * [State-Of-The-Art Benchmarking](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Benchmark.md)
+  * [Face-Oriented Applications](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Faces.md)
+  * [Action and Gait-related Domain](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Actions.md)
+  * [Art and Literature](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Literature.md)
+  * [Videos-driven Modularity](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Videos.md)
 ## 4. Other Domains
   * [Medical Technology](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Others/Medical.md)
   * [State-Of-The-Art Benchmarking](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Others/Benchmark.md)
