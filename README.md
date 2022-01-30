@@ -2,7 +2,7 @@
 
 ## 1. Computer Vision
   * [Medical Technology](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Medical.md)
-  * [State-Of-The-Art Benchmarking](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Benchamrk.md)
+  * [State-Of-The-Art Benchmarking](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Benchmark.md)
   * [Face-Oriented Applications](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Faces.md)
   * [Action and Gait-related Domain](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Actions.md)
   * [Music and Accoustics](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Music.md)
