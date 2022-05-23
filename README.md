@@ -1,5 +1,9 @@
 # Research-Papers-Reading-Directory
 
+The real motivation (rather a personal one) behind creating this repository, is to keep a track about the recent research works happening in different sub-domains of Artificial Intelligence (Most of the papers belonging to Deep-Learning in specific). Later on, it will be expanded to different Sub-Domains according to the interests and exploration stages.
+
+Following Sub-Domains are present hereby, alongside their corresponding application-areas:-
+
 ## 1. Computer Vision
   * [Medical Technology](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Medical.md)
   * [State-Of-The-Art Benchmarking](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/Computer%20Vision/Benchmark.md)
