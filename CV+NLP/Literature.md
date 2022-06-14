@@ -1,4 +1,4 @@
-| S.No. | Research Paper | Architecture | Purpose | Link |
+| S.No. | Research Paper | Architecture/Purpose | Authors | Link |
 | ---- | ---- | ---- | ---- | ---- |
-|1.|Tell, Draw, and Repeat Generating and Modifying Images Based on Continual Linguistic Instruction||Reconstruction|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Tell%2C%20Draw%2C%20and%20Repeat%20Generating%20and%20Modifying%20Images%20Based%20on%20Continual%20Linguistic%20Instruction.pdf)|
-|2.|Understanding of Emotion Perception from Art||Image Captioning|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Understanding%20of%20Emotion%20Perception%20from%20Art.pdf)|
+|1.|Tell, Draw, and Repeat Generating and Modifying Images Based on Continual Linguistic Instruction|Reconstruction|Alaaeldin El-Nouby, Shikhar Sharma, Hannes Schulz, Devon Hjelm, Layla El Asri, Samira Ebrahimi Kahou, Yoshua Bengio, Graham W.Taylor|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Tell%2C%20Draw%2C%20and%20Repeat%20Generating%20and%20Modifying%20Images%20Based%20on%20Continual%20Linguistic%20Instruction.pdf)|
+|2.|Understanding of Emotion Perception from Art|Image Captioning|Digbalay Bose, Krishna Somandepalli, Souvik Kundu, Rimita Lahiri, Jonathan Gratch, Shrikanth Narayanan|[Link](https://github.com/kwanit1142/Research-Papers-Reading-Directory/blob/main/CV%2BNLP/Understanding%20of%20Emotion%20Perception%20from%20Art.pdf)|
